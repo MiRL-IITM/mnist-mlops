@@ -1,0 +1,15 @@
+artifact_uri: file:///media/mirl/DATA/Projects/MLOps/mnist-mlops-tutorial/mlruns/0/02e2d40c84cf4bacbe7b29225fdc753b/artifacts
+end_time: 1740145440727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02e2d40c84cf4bacbe7b29225fdc753b
+run_name: rebellious-shad-728
+run_uuid: 02e2d40c84cf4bacbe7b29225fdc753b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740145378738
+status: 3
+tags: []
+user_id: mirl

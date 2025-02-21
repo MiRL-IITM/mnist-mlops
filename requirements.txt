@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+Flask
+pytest
+python-dotenv
+dvc
+scikit-learn
+mlflow
