@@ -11,7 +11,7 @@ train:
 	python -m src.models.train_model
 
 test:
-	pytest -m src.tests.test_model
+	python -m src.tests.test_model
 
 serve:
 	python -m src.api.app

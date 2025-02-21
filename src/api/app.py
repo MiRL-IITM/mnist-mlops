@@ -13,7 +13,7 @@ logger = setup_logger(__name__)
 # Load model
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = MNISTModel().to(device)
-model.load_state_dict(torch.load("checkpoints/trained_model.pth", weights_only=True))
+model.load_state_dict(torch.load("checkpoints/trained_model.pth", weights_only=True, map_location=device))
 model.eval()
 
 @app.route('/predict', methods=['POST'])
