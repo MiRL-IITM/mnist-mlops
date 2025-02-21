@@ -13,7 +13,7 @@ logger = setup_logger(__name__)
 # Load model
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = MNISTModel().to(device)
-model.load_state_dict(torch.load("models/trained_model.pth"))
+model.load_state_dict(torch.load("checkpoints/trained_model.pth", weights_only=True))
 model.eval()
 
 @app.route('/predict', methods=['POST'])
@@ -45,4 +45,4 @@ def predict():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=3000)

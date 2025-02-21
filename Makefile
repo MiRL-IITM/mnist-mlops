@@ -4,14 +4,14 @@ setup:
 	pip install -r requirements.txt
 
 data:
-	python src/data/download_mnist.py
-	python src/data/preprocess_data.py
+	python -m src.data.download_mnist
+	python -m src.data.preprocess_data
 
 train:
-	python src/models/train_model.py
+	python -m src.models.train_model
 
 test:
-	pytest src/tests/
+	pytest -m src.tests.test_model
 
 serve:
-	python src/api/app.py
+	python -m src.api.app

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/mirl/DATA/Projects/MLOps/mnist-mlops-tutorial/mlruns/0/88565159eea94901a2d2c102549363c5/artifacts
+end_time: 1740151723487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88565159eea94901a2d2c102549363c5
+run_name: nebulous-fish-570
+run_uuid: 88565159eea94901a2d2c102549363c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740151651359
+status: 3
+tags: []
+user_id: mirl
