@@ -629,3 +629,8 @@
 2025-02-22 11:30:45,000 - __main__ - ERROR - Error making prediction: broken data stream when reading image file
 2025-02-22 11:32:08,870 - __main__ - ERROR - Error making prediction: cannot identify image file <_io.BytesIO object at 0x7fe28149e3b0>
 2025-02-22 11:36:19,066 - __main__ - ERROR - Error making prediction: Invalid base64-encoded string: number of data characters (429) cannot be 1 more than a multiple of 4
+2025-02-22 12:08:46,629 - __main__ - ERROR - Error making prediction: Invalid base64-encoded string: number of data characters (429) cannot be 1 more than a multiple of 4
+2025-02-22 12:12:33,623 - __main__ - INFO - Predicted digit: 7
+2025-02-22 12:13:36,180 - __main__ - INFO - Predicted digit: 7
+2025-02-22 12:14:32,800 - __main__ - INFO - Predicted digit: 7
+2025-02-22 12:16:36,947 - __main__ - INFO - Predicted digit: 7
