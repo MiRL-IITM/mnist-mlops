@@ -6,7 +6,7 @@ from ..utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 
-def train(epochs: int = 10, lr: float = 0.0001):
+def train(epochs: int = 10, lr: float = 0.01):
     try:
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         model = MNISTModel().to(device)
