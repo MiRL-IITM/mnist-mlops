@@ -467,3 +467,165 @@
 2025-02-22 10:25:50,716 - __main__ - INFO - Downloading MNIST dataset...
 2025-02-22 10:25:50,770 - __main__ - INFO - Dataset downloaded successfully
 2025-02-22 10:33:29,113 - __main__ - INFO - Data preprocessing completed successfully
+2025-02-22 10:48:35,166 - src.data.preprocess_data - INFO - Data preprocessing completed successfully
+2025-02-22 10:48:35,495 - __main__ - INFO - Train Epoch: 0 Loss: 2.311515
+2025-02-22 10:48:35,934 - __main__ - INFO - Train Epoch: 0 Loss: 0.714163
+2025-02-22 10:48:36,374 - __main__ - INFO - Train Epoch: 0 Loss: 0.561539
+2025-02-22 10:48:36,805 - __main__ - INFO - Train Epoch: 0 Loss: 0.183487
+2025-02-22 10:48:37,240 - __main__ - INFO - Train Epoch: 0 Loss: 0.371270
+2025-02-22 10:48:37,701 - __main__ - INFO - Train Epoch: 0 Loss: 0.425214
+2025-02-22 10:48:38,175 - __main__ - INFO - Train Epoch: 0 Loss: 0.195498
+2025-02-22 10:48:38,627 - __main__ - INFO - Train Epoch: 0 Loss: 0.175333
+2025-02-22 10:48:39,067 - __main__ - INFO - Train Epoch: 0 Loss: 0.204805
+2025-02-22 10:48:39,504 - __main__ - INFO - Train Epoch: 0 Loss: 0.197497
+2025-02-22 10:48:39,939 - __main__ - INFO - Train Epoch: 0 Loss: 0.085248
+2025-02-22 10:48:40,371 - __main__ - INFO - Train Epoch: 0 Loss: 0.152217
+2025-02-22 10:48:40,810 - __main__ - INFO - Train Epoch: 0 Loss: 0.232171
+2025-02-22 10:48:41,253 - __main__ - INFO - Train Epoch: 0 Loss: 0.249689
+2025-02-22 10:48:41,703 - __main__ - INFO - Train Epoch: 0 Loss: 0.085066
+2025-02-22 10:48:42,155 - __main__ - INFO - Train Epoch: 1 Loss: 0.023730
+2025-02-22 10:48:42,621 - __main__ - INFO - Train Epoch: 1 Loss: 0.027611
+2025-02-22 10:48:43,080 - __main__ - INFO - Train Epoch: 1 Loss: 0.153589
+2025-02-22 10:48:43,533 - __main__ - INFO - Train Epoch: 1 Loss: 0.123544
+2025-02-22 10:48:43,984 - __main__ - INFO - Train Epoch: 1 Loss: 0.123965
+2025-02-22 10:48:44,432 - __main__ - INFO - Train Epoch: 1 Loss: 0.144782
+2025-02-22 10:48:44,876 - __main__ - INFO - Train Epoch: 1 Loss: 0.030063
+2025-02-22 10:48:45,319 - __main__ - INFO - Train Epoch: 1 Loss: 0.110292
+2025-02-22 10:48:45,760 - __main__ - INFO - Train Epoch: 1 Loss: 0.134941
+2025-02-22 10:48:46,211 - __main__ - INFO - Train Epoch: 1 Loss: 0.056980
+2025-02-22 10:48:46,685 - __main__ - INFO - Train Epoch: 1 Loss: 0.041703
+2025-02-22 10:48:47,153 - __main__ - INFO - Train Epoch: 1 Loss: 0.064876
+2025-02-22 10:48:47,623 - __main__ - INFO - Train Epoch: 1 Loss: 0.066630
+2025-02-22 10:48:48,087 - __main__ - INFO - Train Epoch: 1 Loss: 0.143814
+2025-02-22 10:48:48,556 - __main__ - INFO - Train Epoch: 1 Loss: 0.112977
+2025-02-22 10:48:49,002 - __main__ - INFO - Train Epoch: 2 Loss: 0.142295
+2025-02-22 10:48:49,460 - __main__ - INFO - Train Epoch: 2 Loss: 0.184311
+2025-02-22 10:48:49,910 - __main__ - INFO - Train Epoch: 2 Loss: 0.014640
+2025-02-22 10:48:50,355 - __main__ - INFO - Train Epoch: 2 Loss: 0.068141
+2025-02-22 10:48:50,802 - __main__ - INFO - Train Epoch: 2 Loss: 0.046448
+2025-02-22 10:48:51,257 - __main__ - INFO - Train Epoch: 2 Loss: 0.094879
+2025-02-22 10:48:51,733 - __main__ - INFO - Train Epoch: 2 Loss: 0.033657
+2025-02-22 10:48:52,205 - __main__ - INFO - Train Epoch: 2 Loss: 0.101075
+2025-02-22 10:48:52,672 - __main__ - INFO - Train Epoch: 2 Loss: 0.032814
+2025-02-22 10:48:53,128 - __main__ - INFO - Train Epoch: 2 Loss: 0.114329
+2025-02-22 10:48:53,579 - __main__ - INFO - Train Epoch: 2 Loss: 0.085804
+2025-02-22 10:48:54,028 - __main__ - INFO - Train Epoch: 2 Loss: 0.052916
+2025-02-22 10:48:54,492 - __main__ - INFO - Train Epoch: 2 Loss: 0.034858
+2025-02-22 10:48:54,961 - __main__ - INFO - Train Epoch: 2 Loss: 0.020799
+2025-02-22 10:48:55,414 - __main__ - INFO - Train Epoch: 2 Loss: 0.154316
+2025-02-22 10:48:55,866 - __main__ - INFO - Train Epoch: 3 Loss: 0.020344
+2025-02-22 10:48:56,336 - __main__ - INFO - Train Epoch: 3 Loss: 0.038440
+2025-02-22 10:48:56,790 - __main__ - INFO - Train Epoch: 3 Loss: 0.093091
+2025-02-22 10:48:57,238 - __main__ - INFO - Train Epoch: 3 Loss: 0.021526
+2025-02-22 10:48:57,686 - __main__ - INFO - Train Epoch: 3 Loss: 0.054384
+2025-02-22 10:48:58,123 - __main__ - INFO - Train Epoch: 3 Loss: 0.031818
+2025-02-22 10:48:58,609 - __main__ - INFO - Train Epoch: 3 Loss: 0.038694
+2025-02-22 10:48:59,095 - __main__ - INFO - Train Epoch: 3 Loss: 0.047356
+2025-02-22 10:48:59,569 - __main__ - INFO - Train Epoch: 3 Loss: 0.027792
+2025-02-22 10:49:00,044 - __main__ - INFO - Train Epoch: 3 Loss: 0.030869
+2025-02-22 10:49:00,563 - __main__ - INFO - Train Epoch: 3 Loss: 0.063494
+2025-02-22 10:49:01,036 - __main__ - INFO - Train Epoch: 3 Loss: 0.021189
+2025-02-22 10:49:01,497 - __main__ - INFO - Train Epoch: 3 Loss: 0.159369
+2025-02-22 10:49:01,947 - __main__ - INFO - Train Epoch: 3 Loss: 0.048902
+2025-02-22 10:49:02,432 - __main__ - INFO - Train Epoch: 3 Loss: 0.114705
+2025-02-22 10:49:02,897 - __main__ - INFO - Train Epoch: 4 Loss: 0.111599
+2025-02-22 10:49:03,365 - __main__ - INFO - Train Epoch: 4 Loss: 0.018248
+2025-02-22 10:49:03,809 - __main__ - INFO - Train Epoch: 4 Loss: 0.012233
+2025-02-22 10:49:04,262 - __main__ - INFO - Train Epoch: 4 Loss: 0.044080
+2025-02-22 10:49:04,713 - __main__ - INFO - Train Epoch: 4 Loss: 0.083382
+2025-02-22 10:49:05,170 - __main__ - INFO - Train Epoch: 4 Loss: 0.058281
+2025-02-22 10:49:05,633 - __main__ - INFO - Train Epoch: 4 Loss: 0.082892
+2025-02-22 10:49:06,085 - __main__ - INFO - Train Epoch: 4 Loss: 0.188656
+2025-02-22 10:49:06,539 - __main__ - INFO - Train Epoch: 4 Loss: 0.038516
+2025-02-22 10:49:07,014 - __main__ - INFO - Train Epoch: 4 Loss: 0.066282
+2025-02-22 10:49:07,498 - __main__ - INFO - Train Epoch: 4 Loss: 0.008540
+2025-02-22 10:49:07,982 - __main__ - INFO - Train Epoch: 4 Loss: 0.148236
+2025-02-22 10:49:08,469 - __main__ - INFO - Train Epoch: 4 Loss: 0.035430
+2025-02-22 10:49:08,921 - __main__ - INFO - Train Epoch: 4 Loss: 0.025852
+2025-02-22 10:49:09,392 - __main__ - INFO - Train Epoch: 4 Loss: 0.107060
+2025-02-22 10:49:09,859 - __main__ - INFO - Train Epoch: 5 Loss: 0.114702
+2025-02-22 10:49:10,330 - __main__ - INFO - Train Epoch: 5 Loss: 0.019129
+2025-02-22 10:49:10,792 - __main__ - INFO - Train Epoch: 5 Loss: 0.090101
+2025-02-22 10:49:11,252 - __main__ - INFO - Train Epoch: 5 Loss: 0.030532
+2025-02-22 10:49:11,716 - __main__ - INFO - Train Epoch: 5 Loss: 0.027421
+2025-02-22 10:49:12,190 - __main__ - INFO - Train Epoch: 5 Loss: 0.068340
+2025-02-22 10:49:12,657 - __main__ - INFO - Train Epoch: 5 Loss: 0.011954
+2025-02-22 10:49:13,125 - __main__ - INFO - Train Epoch: 5 Loss: 0.024901
+2025-02-22 10:49:13,595 - __main__ - INFO - Train Epoch: 5 Loss: 0.020181
+2025-02-22 10:49:14,088 - __main__ - INFO - Train Epoch: 5 Loss: 0.058072
+2025-02-22 10:49:14,577 - __main__ - INFO - Train Epoch: 5 Loss: 0.006801
+2025-02-22 10:49:15,057 - __main__ - INFO - Train Epoch: 5 Loss: 0.031769
+2025-02-22 10:49:15,526 - __main__ - INFO - Train Epoch: 5 Loss: 0.039538
+2025-02-22 10:49:15,997 - __main__ - INFO - Train Epoch: 5 Loss: 0.190023
+2025-02-22 10:49:16,463 - __main__ - INFO - Train Epoch: 5 Loss: 0.106467
+2025-02-22 10:49:16,928 - __main__ - INFO - Train Epoch: 6 Loss: 0.037908
+2025-02-22 10:49:17,389 - __main__ - INFO - Train Epoch: 6 Loss: 0.094426
+2025-02-22 10:49:17,856 - __main__ - INFO - Train Epoch: 6 Loss: 0.003350
+2025-02-22 10:49:18,326 - __main__ - INFO - Train Epoch: 6 Loss: 0.039695
+2025-02-22 10:49:18,801 - __main__ - INFO - Train Epoch: 6 Loss: 0.008043
+2025-02-22 10:49:19,266 - __main__ - INFO - Train Epoch: 6 Loss: 0.090698
+2025-02-22 10:49:19,727 - __main__ - INFO - Train Epoch: 6 Loss: 0.181586
+2025-02-22 10:49:20,192 - __main__ - INFO - Train Epoch: 6 Loss: 0.026332
+2025-02-22 10:49:20,668 - __main__ - INFO - Train Epoch: 6 Loss: 0.025879
+2025-02-22 10:49:21,162 - __main__ - INFO - Train Epoch: 6 Loss: 0.003439
+2025-02-22 10:49:21,638 - __main__ - INFO - Train Epoch: 6 Loss: 0.037563
+2025-02-22 10:49:22,115 - __main__ - INFO - Train Epoch: 6 Loss: 0.004138
+2025-02-22 10:49:22,590 - __main__ - INFO - Train Epoch: 6 Loss: 0.152138
+2025-02-22 10:49:23,057 - __main__ - INFO - Train Epoch: 6 Loss: 0.003278
+2025-02-22 10:49:23,529 - __main__ - INFO - Train Epoch: 6 Loss: 0.041373
+2025-02-22 10:49:24,008 - __main__ - INFO - Train Epoch: 7 Loss: 0.121584
+2025-02-22 10:49:24,459 - __main__ - INFO - Train Epoch: 7 Loss: 0.011606
+2025-02-22 10:49:24,917 - __main__ - INFO - Train Epoch: 7 Loss: 0.154161
+2025-02-22 10:49:25,398 - __main__ - INFO - Train Epoch: 7 Loss: 0.021702
+2025-02-22 10:49:25,867 - __main__ - INFO - Train Epoch: 7 Loss: 0.017319
+2025-02-22 10:49:26,321 - __main__ - INFO - Train Epoch: 7 Loss: 0.024502
+2025-02-22 10:49:26,775 - __main__ - INFO - Train Epoch: 7 Loss: 0.161753
+2025-02-22 10:49:27,233 - __main__ - INFO - Train Epoch: 7 Loss: 0.003099
+2025-02-22 10:49:27,701 - __main__ - INFO - Train Epoch: 7 Loss: 0.006868
+2025-02-22 10:49:28,166 - __main__ - INFO - Train Epoch: 7 Loss: 0.000563
+2025-02-22 10:49:28,637 - __main__ - INFO - Train Epoch: 7 Loss: 0.003642
+2025-02-22 10:49:29,086 - __main__ - INFO - Train Epoch: 7 Loss: 0.005907
+2025-02-22 10:49:29,567 - __main__ - INFO - Train Epoch: 7 Loss: 0.000838
+2025-02-22 10:49:30,034 - __main__ - INFO - Train Epoch: 7 Loss: 0.091099
+2025-02-22 10:49:30,520 - __main__ - INFO - Train Epoch: 7 Loss: 0.018608
+2025-02-22 10:49:30,992 - __main__ - INFO - Train Epoch: 8 Loss: 0.072107
+2025-02-22 10:49:31,463 - __main__ - INFO - Train Epoch: 8 Loss: 0.103564
+2025-02-22 10:49:31,944 - __main__ - INFO - Train Epoch: 8 Loss: 0.001042
+2025-02-22 10:49:32,419 - __main__ - INFO - Train Epoch: 8 Loss: 0.010611
+2025-02-22 10:49:32,887 - __main__ - INFO - Train Epoch: 8 Loss: 0.035847
+2025-02-22 10:49:33,349 - __main__ - INFO - Train Epoch: 8 Loss: 0.013869
+2025-02-22 10:49:33,818 - __main__ - INFO - Train Epoch: 8 Loss: 0.002567
+2025-02-22 10:49:34,287 - __main__ - INFO - Train Epoch: 8 Loss: 0.001664
+2025-02-22 10:49:34,761 - __main__ - INFO - Train Epoch: 8 Loss: 0.056244
+2025-02-22 10:49:35,236 - __main__ - INFO - Train Epoch: 8 Loss: 0.022166
+2025-02-22 10:49:35,732 - __main__ - INFO - Train Epoch: 8 Loss: 0.016342
+2025-02-22 10:49:36,193 - __main__ - INFO - Train Epoch: 8 Loss: 0.003900
+2025-02-22 10:49:36,654 - __main__ - INFO - Train Epoch: 8 Loss: 0.008907
+2025-02-22 10:49:37,112 - __main__ - INFO - Train Epoch: 8 Loss: 0.071508
+2025-02-22 10:49:37,560 - __main__ - INFO - Train Epoch: 8 Loss: 0.021580
+2025-02-22 10:49:38,034 - __main__ - INFO - Train Epoch: 9 Loss: 0.009346
+2025-02-22 10:49:38,513 - __main__ - INFO - Train Epoch: 9 Loss: 0.193961
+2025-02-22 10:49:38,977 - __main__ - INFO - Train Epoch: 9 Loss: 0.009164
+2025-02-22 10:49:39,433 - __main__ - INFO - Train Epoch: 9 Loss: 0.036016
+2025-02-22 10:49:39,912 - __main__ - INFO - Train Epoch: 9 Loss: 0.002546
+2025-02-22 10:49:40,431 - __main__ - INFO - Train Epoch: 9 Loss: 0.009239
+2025-02-22 10:49:40,877 - __main__ - INFO - Train Epoch: 9 Loss: 0.057028
+2025-02-22 10:49:41,341 - __main__ - INFO - Train Epoch: 9 Loss: 0.039679
+2025-02-22 10:49:41,794 - __main__ - INFO - Train Epoch: 9 Loss: 0.072011
+2025-02-22 10:49:42,249 - __main__ - INFO - Train Epoch: 9 Loss: 0.007494
+2025-02-22 10:49:42,698 - __main__ - INFO - Train Epoch: 9 Loss: 0.007211
+2025-02-22 10:49:43,143 - __main__ - INFO - Train Epoch: 9 Loss: 0.026222
+2025-02-22 10:49:43,597 - __main__ - INFO - Train Epoch: 9 Loss: 0.170280
+2025-02-22 10:49:44,045 - __main__ - INFO - Train Epoch: 9 Loss: 0.007805
+2025-02-22 10:49:44,508 - __main__ - INFO - Train Epoch: 9 Loss: 0.235693
+2025-02-22 10:49:44,970 - __main__ - INFO - Training completed successfully
+2025-02-22 10:52:45,361 - __main__ - INFO - Data preprocessing completed successfully
+2025-02-22 10:56:11,830 - src.data.preprocess_data - INFO - Data preprocessing completed successfully
+2025-02-22 10:56:13,324 - __main__ - INFO - Validation accuracy: 99.48333333333333%
+2025-02-22 11:26:11,189 - __main__ - ERROR - Error making prediction: broken data stream when reading image file
+2025-02-22 11:26:16,915 - __main__ - ERROR - Error making prediction: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-02-22 11:28:33,265 - __main__ - ERROR - Error making prediction: broken data stream when reading image file
+2025-02-22 11:28:53,590 - __main__ - ERROR - Error making prediction: broken data stream when reading image file
+2025-02-22 11:30:45,000 - __main__ - ERROR - Error making prediction: broken data stream when reading image file
+2025-02-22 11:32:08,870 - __main__ - ERROR - Error making prediction: cannot identify image file <_io.BytesIO object at 0x7fe28149e3b0>
+2025-02-22 11:36:19,066 - __main__ - ERROR - Error making prediction: Invalid base64-encoded string: number of data characters (429) cannot be 1 more than a multiple of 4

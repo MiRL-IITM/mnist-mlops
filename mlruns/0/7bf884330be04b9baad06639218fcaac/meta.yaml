@@ -1,0 +1,15 @@
+artifact_uri: file:///media/mirl/DATA/Projects/MLOps/mnist-mlops-tutorial/mlruns/0/7bf884330be04b9baad06639218fcaac/artifacts
+end_time: 1740201973428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bf884330be04b9baad06639218fcaac
+run_name: secretive-ram-10
+run_uuid: 7bf884330be04b9baad06639218fcaac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740201973423
+status: 3
+tags: []
+user_id: mirl

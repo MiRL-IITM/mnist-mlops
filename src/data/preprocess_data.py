@@ -22,6 +22,8 @@ def preprocess_data(raw_data_dir: str = "data/raw",
         # Split into train and validation
         train_size = int(0.8 * len(train_dataset))
         val_size = len(train_dataset) - train_size
+        print(train_size, val_size)
+        print(train_size//32)
         train_dataset, val_dataset = random_split(
             train_dataset, [train_size, val_size]
         )

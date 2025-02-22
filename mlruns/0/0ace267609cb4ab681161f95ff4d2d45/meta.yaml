@@ -1,0 +1,15 @@
+artifact_uri: file:///media/mirl/DATA/Projects/MLOps/mnist-mlops-tutorial/mlruns/0/0ace267609cb4ab681161f95ff4d2d45/artifacts
+end_time: 1740201584964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ace267609cb4ab681161f95ff4d2d45
+run_name: handsome-mule-788
+run_uuid: 0ace267609cb4ab681161f95ff4d2d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740201515249
+status: 3
+tags: []
+user_id: mirl
